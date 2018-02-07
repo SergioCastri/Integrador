@@ -1,0 +1,14 @@
+{
+  "name": "Integrador",
+  "version": "0.0.1",
+  "description": "sistema de gestion de prestamos de implementos deportivos",
+  "dependencies": {
+    "express": "^4.15.2",
+    "cors": "^2.8.4",
+    "body-parser": "^1.17.2",
+    "mongoose": "^4.11.9"
+  },
+  "scripts": {
+    "start": "server.js"
+  }
+}
